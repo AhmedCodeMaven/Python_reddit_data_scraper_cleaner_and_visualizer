@@ -7,7 +7,7 @@ It then Cleans the text data
  Tokenizes the text data
  Removes stopwords
  Stems and Displays a sample of the stemmed data
- Lemmatizes and displays a sample of the lemmatized data in step 6
+ Lemmatizes and displays a sample of the lemmatized data in the step above
  Uses word cloud to visualize the data in the step above
  Saves the cleaned data to a new CSV file
  
